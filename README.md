@@ -49,7 +49,7 @@ This project focuses on classifying handwritten digits using various machine lea
 ### Project Details
 
 #### Data Exploration
-- Loaded the MNIST dataset using TensorFlow/Keras.
+- Loaded the MNIST dataset using Keras.
 - Visualized sample images from the dataset to understand the data structure.
 - Checked the distribution of digits in the dataset to ensure an even representation.
 
@@ -60,17 +60,15 @@ This project focuses on classifying handwritten digits using various machine lea
 
 #### Modeling
 - Explored various machine learning models:
-  - **Logistic Regression**: Applied logistic regression to the flattened image data.
-  - **Support Vector Machine (SVM)**: Used a linear SVM for classification.
-  - **K-Nearest Neighbors (KNN)**: Implemented KNN with different values of K.
-  - **Neural Networks**: Built a simple feedforward neural network.
-  - **Convolutional Neural Networks (CNN)**: Developed a deep CNN model leveraging convolutional layers, pooling layers, and dropout for regularization.
-- Evaluated model performance using accuracy, confusion matrices, and loss curves.
+  - **MLP Neural Network**
+  - **Convolutional Neural Networks (CNN)**:
+  - **CNN with residual connections**
+- Evaluated model performance using accuracy, confusion matrices, and ROC curves.
 - Applied data augmentation techniques to increase the model's robustness and accuracy.
 
 #### Conclusion
-- Achieved high accuracy with most models, with the CNN model outperforming others.
-- The CNN model showed excellent performance in recognizing handwritten digits with high precision.
+- Achieved high accuracy with most models, with the CNN models outperforming others.
+- The CNN models showed excellent performance in recognizing handwritten digits with high precision.
 - Further improvements could include experimenting with more complex architectures or fine-tuning hyperparameters.
 
 ### Copy
