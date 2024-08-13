@@ -75,4 +75,4 @@ This project focuses on classifying handwritten digits using various machine lea
 
 ### Copy
 - **Dataset**: import directly (look at code)
-- **Code**: (https://github.com/adacersos/Basic-AI-Projects/blob/main/MNIST%20Digit%20Classification.ipynb)](https://github.com/adacersos/Basic-AI-Projects/blob/main/Computer%20Vision..ipynb)
+- **Code**: https://github.com/adacersos/Basic-AI-Projects/blob/main/Computer%20Vision..ipynb
