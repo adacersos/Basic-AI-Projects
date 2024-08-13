@@ -35,3 +35,7 @@ This project predicts the sentiment of movie reviews using machine learning tech
 
 - Achieved reasonable accuracy with all models.
 - Logistic Regression and Linear Support Vector Classifier performed the best.
+
+### Copy
+- Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+-  Code: https://github.com/adacersos/Basic-AI-Projects/blob/main/Sentiment%20analysis%20challenge%20..ipynb
